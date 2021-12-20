@@ -5,7 +5,7 @@ while True:
     response = input()
     if response =="exit":
         sys.exit()
-    print ("Tu escribiste " + resopnse + ".")
+    print ("Tu escribiste " + response + ".")
     
     
     
